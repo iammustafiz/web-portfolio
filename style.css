@@ -111,3 +111,21 @@ section{
 footer p{
     text-align: center;
 }
+
+.exp h2{
+    /* margin-top: -145px; */
+    margin-left: 16px;
+    margin-bottom: 80px;
+    padding-top: 70px;
+    
+    background: -webkit-linear-gradient(45deg, white 7%, tomato 10%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.exp{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    height: 220px;
+}
