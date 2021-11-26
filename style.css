@@ -118,7 +118,7 @@ footer p{
     margin-bottom: 80px;
     padding-top: 70px;
     
-    background: -webkit-linear-gradient(45deg, white 7%, tomato 10%);
+    background: -webkit-linear-gradient(45deg, white 6%, tomato 10%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
